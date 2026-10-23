@@ -1,0 +1,1 @@
+# program-to-resize-a-dynamically-allocated-array-by-allocating-a-new-array-and-copying-its-elements.
